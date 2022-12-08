@@ -1,0 +1,19 @@
+NOTICE:  Pedidos: 10000 inseridos (1 % concluido) - Fri May 19 18:34:16.343078 2017 BRT
+CONTEXT:  PL/pgSQL function gera_pedidos(integer) line 21 at RAISE
+
+NOTICE:  Pedidos: 20000 inseridos (2 % concluido) - Fri May 19 18:35:07.360996 2017 BRT
+CONTEXT:  PL/pgSQL function gera_pedidos(integer) line 21 at RAISE
+Diferença: 69 segundos
+
+NOTICE:  Pedidos: 30000 inseridos (3 % concluido) - Fri May 19 18:36:30.311741 2017 BRT
+CONTEXT:  PL/pgSQL function gera_pedidos(integer) line 21 at RAISE
+Diferença: 83 segundos
+
+NOTICE:  Pedidos: 40000 inseridos (4 % concluido) - Fri May 19 18:38:24.034245 2017 BRT
+CONTEXT:  PL/pgSQL function gera_pedidos(integer) line 21 at RAISE
+Diferença: 114 segundos
+
+NOTICE:  Pedidos: 50000 inseridos (5 % concluido) - Fri May 19 18:40:48.704520 2017 BRT
+CONTEXT:  PL/pgSQL function gera_pedidos(integer) line 21 at RAISE
+Diferença: 144 segundos
+

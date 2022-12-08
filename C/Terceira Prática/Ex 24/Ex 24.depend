@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1433642585 source:c:\users\usuário\desktop\ex 24\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1433713888 source:c:\users\usuário\desktop\terceira prática\ex 24\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

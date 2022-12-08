@@ -1,0 +1,17 @@
+﻿DICAS:
+
+1 - Defina todas as entidades (Fortes ou Fracas, Genéricas ou Especializações)
+2 - Crie os atributos das entidades (Chaves Fortes ou Fracas, monovalorados, multivalorados, derivados, compostos, etc.)
+3 - Crie todas as relações
+4 - Verifique se alguma relação possui atributos
+5 - Verifique se as relações são totais ou parciais
+6 - Defina a relação entre entidade Fraca/Forte para todas as entidades fracas
+7 - Auto-relacionamentos sempre precisam de uma legenda em cada lado
+8 - Coloque a cardinalidade em todas as relações
+
+OBS:
+
+1 - Não criar entidades sem atributos
+2 - Não criar entidades sem uma chave (forte ou fraca)
+3 - Entidades genéricas possuem os atributos comuns
+4 - Entidades especializadas possuem somente os atributos específicos e não tem chave

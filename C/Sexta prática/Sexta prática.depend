@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1437009448 source:c:\users\usuário\documents\sistemas\gs002 - intro. a prog. de computadores\sexta prática\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+

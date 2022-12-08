@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1432169764 source:c:\users\usuário\documents\sistemas\gs002 - introdução à programação de computadores\desviopadrao\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

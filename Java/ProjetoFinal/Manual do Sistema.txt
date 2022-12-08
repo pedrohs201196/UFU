@@ -1,0 +1,36 @@
+=== SUPERMERCADO === 
+Isabel Borges
+Matheus Eduardo
+Pedro Henrique da Silva
+
+DADOS INICIAIS DO SUPERMERCADO
+	- Gerente
+		Login: pedro
+		Senha: pedro123
+	- Estoquista
+		Login: isabel
+		Senha: isabel123
+	- Operador de caixa
+		Login: matheus
+		Senha: matheus123
+	- O valor inicial armazenado é de R$ 10000,00
+
+MENU DO GERENTE
+	- O gerente é responsável pelo setor administrativo do supermercado, ele tem controle dos funcionários e das finanças do estabelecimento
+	- Contrata, demite e acessa os dados de funcionários
+	- Verifica o fluxo de caixa mensal do supermercado, do mês atual e de meses anteriores. O fluxo de caixa consiste em: dinheiro acumulado, ganhos, gastos e lucro
+	- A opção "fechar mês" realiza o pagamento dos funcionários, encerra e salva o registro do fluxo de caixa do dado mês e cria um novo registro
+	
+MENU DO ESTOQUISTA
+	- O menu do estoquista é responsável pelo registro de produtos e abastecimento do estoque
+	- Cadastra e remove produtos
+	- Repõe produtos
+	- Acessa as informações de todos os produtos
+	
+MENU DO OPERADOR DE CAIXA
+	- O menu do operador de caixa processa as compras dos clientes
+	- Adiciona e remove produtos do carrinho de compras
+	- Mostra o conteúdo do carrinho de compras e o valor subtotal da compra
+	- Finaliza a compra: recebe dinheiro do cliente e o armazena no caixa, retira os produtos comprados do estoque, emite e registra cupom fiscal
+	- A opção "fechar caixa" direciona todo o dinheiro do caixa ao setor administrativo
+	

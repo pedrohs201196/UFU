@@ -1,0 +1,4 @@
+pedro, 19 anos de idade, do sexo m, analista, telefone nº123, email: pedrohs
+bel, 18 anos de idade, do sexo f, analista, telefone nº4566, email: bebelpizza
+luna, 1 anos de idade, do sexo f, bolinha, telefone nº1234, email: bebezinho
+augusto, 22 anos de idade, do sexo m, analista, telefone nº1253, email: augustogusto

@@ -1,0 +1,11 @@
+DICAS:
+
+1 - Criar uma tabela para cada entidade forte, com suas chaves e seus atributos normais. Para atributos compostos, colocar somente o atributo pai ou somente os filhos, não colocar todos. Atributos derivados são representados normalmente. Atributos multivalorados não devem ser inseridos.
+2 - Criar uma tabela para cada entidade fraca. E fazer um relacionamento identificado do tipo 1:N com a tabela que a identifica. A tabela 'fraca' terá como chave primária a chave estrangeira da tabela que a identifica mais a sua crave fraca, que nesta representação será forte.
+3 - Criar os relacionamentos não identificados do tipo 1:1. O lado que possuir participação total na relação receberá a chave estrangeira da tabela que faz relação com ela. Esta chave não será primária! Se houver atributos na relação, os atributos devem ser criados na tabela que recebeu a chave estrangeira.
+4 - Criar os relacionamentos não identificados do tipo 1:N. O lado "N" receberá a chave estrangeira da tabela que faz relação com ela. Esta chave não será primária! Se houver atributos na relação, os atributos devem ser criados na tabela do lado "N".
+5 - Criar os relacionamentos não identificados do tipo N:N. Uma nova tabela será criada contendo as chaves estrangeiras das duas tabelas relacionadas, estas chaves também serão primárias. Se houver atributos na relação, os atributos devem ser criados nesta nova tabela.
+6 - Representar os atributos multivalorados. Eles são representados criando uma nova tabela e seu atributo se torna uma chave primária. Fazer um relacionamento identificado do tipo 1:N. A tabela do valor multivalorado receberá uma chave estrangeira primária da tabela onde o atributo fica.
+7 - Opcional: conferir atributos Not Null
+
+Ex1) Não esquecer de responder à pergunta do exercício definindo bem a questão de cardinalidades.
